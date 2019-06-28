@@ -1,1 +1,1 @@
-<?php i am in index ?>
+<?php echo "i do work in index of master branch"; ?>
